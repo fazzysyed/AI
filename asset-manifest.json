@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/expots-js/static/js/main.4a2cb458.js",
+    "static/js/487.0f5499cc.js": "/expots-js/static/js/487.0f5499cc.js",
+    "model/yolov5n-320/group1-shard1of2.bin": "/expots-js/model/yolov5n-320/group1-shard1of2.bin",
+    "model/yolov5n-320/group1-shard2of2.bin": "/expots-js/model/yolov5n-320/group1-shard2of2.bin",
+    "model/yolov5n-320/model.json": "/expots-js/model/yolov5n-320/model.json",
+    "favicon.ico": "/expots-js/favicon.ico",
+    "index.html": "/expots-js/index.html",
+    "favicon-32.png": "/expots-js/favicon-32.png",
+    "favicon-16.png": "/expots-js/favicon-16.png",
+    "serve.json": "/expots-js/serve.json",
+    "manifest.json": "/expots-js/manifest.json",
+    "main.4a2cb458.js.map": "/expots-js/static/js/main.4a2cb458.js.map",
+    "487.0f5499cc.js.map": "/expots-js/static/js/487.0f5499cc.js.map"
+  },
+  "entrypoints": [
+    "static/js/487.0f5499cc.js",
+    "static/js/main.4a2cb458.js"
+  ]
+}

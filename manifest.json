@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "My App",
+  "short_name": "My App",
+  "start_url": "./index.html",
+  "orientation": "portrait"
+}
